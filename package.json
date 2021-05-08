@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node public/publisher.js",
-    "dev": "nodemon public/publisher.js"
+    "start": "node public/publisher.js"
   },
   "repository": {
     "type": "git",
