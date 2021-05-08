@@ -1,0 +1,25 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node public/publisher.js",
+    "dev": "nodemon public/publisher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morfishman/AkatonProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morfishman/AkatonProject/issues"
+  },
+  "homepage": "https://github.com/morfishman/AkatonProject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.1",
+    "nodemon": "^2.0.7"
+  }
+}
